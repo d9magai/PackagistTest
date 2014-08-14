@@ -1,7 +1,7 @@
 <?php
 namespace PackagistTest;
 
-class PackagistTest
+class HelloWorld
 {
     public function __construct($path = './hello.log')
     {
